@@ -1,5 +1,13 @@
-package com.mycompany.gestor_de_peliculas;
+package com.methaporce.vista;
 
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+
+
+import com.methaporce.modelo.GestorPeliculas;
+import com.methaporce.modelo.Peliculas;
 import java.util.List;
 
 /**
@@ -7,7 +15,6 @@ import java.util.List;
  * @author jvaldecr
  */
 public class Main {
-    
     public static void main(String[] args) {
         GestorPeliculas gestor = new GestorPeliculas();
 
@@ -48,5 +55,3 @@ public class Main {
     }
     
 }
-    
-

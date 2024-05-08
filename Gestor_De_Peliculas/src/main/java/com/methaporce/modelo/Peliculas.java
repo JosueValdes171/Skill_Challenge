@@ -1,9 +1,5 @@
-package com.mycompany.gestor_de_peliculas;
+package com.methaporce.modelo;
 
-/**
- *
- * @author jvaldecr
- */
 public class Peliculas {
     
     private int idPelicula;

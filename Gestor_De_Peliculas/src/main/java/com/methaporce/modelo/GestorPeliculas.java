@@ -1,5 +1,4 @@
-
-package com.mycompany.gestor_de_peliculas;
+package com.methaporce.modelo;
 
 import java.util.ArrayList;
 import java.util.Iterator;
